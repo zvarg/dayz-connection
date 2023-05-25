@@ -29,12 +29,23 @@
                 HorizontalOptions="Center" />
 
             <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
+                x:Name="TracerouteBtn"
+                Text="Trace route Predators Chernarus Medium"
+                SemanticProperties.Hint="Schedules a trace route"
+                Clicked="OnTracerouteClicked"
                 HorizontalOptions="Center" />
 
+            <Button
+                x:Name="PingBtn"
+                Text="Ping Predators Chernarus Medium"
+                SemanticProperties.Hint="Pinging Predators Chernarus Medium"
+                Clicked="OnPingClicked"
+                HorizontalOptions="Center" />
+
+            <Editor x:Name="PingResultEditor"
+                AutoSize="TextChanges"
+                Placeholder="Enter text" />
+            
         </VerticalStackLayout>
     </ScrollView>
 

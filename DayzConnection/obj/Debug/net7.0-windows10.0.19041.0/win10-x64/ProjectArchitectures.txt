@@ -1,0 +1,1 @@
+C:\repos\zvarg\dayz-connection\DayzConnection\DayzConnection.csproj;x64

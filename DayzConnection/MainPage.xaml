@@ -9,41 +9,48 @@
             Padding="30,0"
             VerticalOptions="Center">
 
+            <!--Source="dotnet_bot.png"-->
             <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                Source="dayz_logo.png"
+                SemanticProperties.Description="Having connection issues is dangerous in these times..."
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Hello, World!"
+                Text="Dayz connection notification"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
+                Text="Get alerted when your ping is high enough and playing is not safe anymore"
+                SemanticProperties.HeadingLevel="Level2"                
+                FontSize="16"
                 HorizontalOptions="Center" />
+            
+            <HorizontalStackLayout 
+                Spacing="25"
+                Padding="30,0"
+                VerticalOptions="Center"
+                HorizontalOptions="Center">
 
-            <Button
-                x:Name="TracerouteBtn"
-                Text="Trace route Predators Chernarus Medium"
-                SemanticProperties.Hint="Schedules a trace route"
-                Clicked="OnTracerouteClicked"
-                HorizontalOptions="Center" />
+                <Button
+                    x:Name="TracerouteBtn"
+                    Text="Trace route Predators Chernarus Medium"
+                    SemanticProperties.Hint="Schedules a trace route"
+                    Clicked="OnTracerouteClicked" />
 
-            <Button
-                x:Name="PingBtn"
-                Text="Ping Predators Chernarus Medium"
-                SemanticProperties.Hint="Pinging Predators Chernarus Medium"
-                Clicked="OnPingClicked"
-                HorizontalOptions="Center" />
+                <Button
+                    x:Name="PingBtn"
+                    Text="Ping Predators Chernarus Medium"
+                    SemanticProperties.Hint="Pinging Predators Chernarus Medium"
+                    Clicked="OnPingClicked" />
 
+            </HorizontalStackLayout>            
+            
             <Editor x:Name="PingResultEditor"
                 AutoSize="TextChanges"
+                HeightRequest="200"
                 Placeholder="Enter text" />
             
         </VerticalStackLayout>

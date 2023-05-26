@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\repos\zvarg\dayz-connection\DayzConnection\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-25T18:12:26.309</Modified>
+      <Modified>2023-05-26T14:01:03.350</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-25T18:12:25.145</Modified>
+      <Modified>2023-05-26T13:49:53.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DayzConnection.runtimeconfig.json">
       <PackagePath>DayzConnection.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DayzConnection.dll">
       <PackagePath>DayzConnection.dll</PackagePath>
-      <Modified>2023-05-25T18:12:23.468</Modified>
+      <Modified>2023-05-26T14:01:01.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DayzConnection.exe</PackagePath>
-      <Modified>2023-05-25T18:12:23.540</Modified>
+      <Modified>2023-05-26T14:01:01.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vz\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +920,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\DayzConnection.deps.json">
       <PackagePath>DayzConnection.deps.json</PackagePath>
-      <Modified>2023-05-25T18:12:26.064</Modified>
+      <Modified>2023-05-26T14:01:03.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -968,207 +968,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-05-25T12:55:08.096</Modified>
+      <Modified>2023-05-26T13:49:41.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.400</Modified>
+      <Modified>2023-05-26T13:49:42.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.415</Modified>
+      <Modified>2023-05-26T13:49:42.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.430</Modified>
+      <Modified>2023-05-26T13:49:42.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.455</Modified>
+      <Modified>2023-05-26T13:49:42.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.551</Modified>
+      <Modified>2023-05-26T13:49:42.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.177</Modified>
+      <Modified>2023-05-26T13:49:41.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.181</Modified>
+      <Modified>2023-05-26T13:49:41.793</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.197</Modified>
+      <Modified>2023-05-26T13:49:41.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.184</Modified>
+      <Modified>2023-05-26T13:49:41.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.188</Modified>
+      <Modified>2023-05-26T13:49:41.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.154</Modified>
+      <Modified>2023-05-26T13:49:41.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.157</Modified>
+      <Modified>2023-05-26T13:49:41.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.174</Modified>
+      <Modified>2023-05-26T13:49:41.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.161</Modified>
+      <Modified>2023-05-26T13:49:41.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.165</Modified>
+      <Modified>2023-05-26T13:49:41.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.108</Modified>
+      <Modified>2023-05-26T13:49:41.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.111</Modified>
+      <Modified>2023-05-26T13:49:41.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.116</Modified>
+      <Modified>2023-05-26T13:49:41.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.120</Modified>
+      <Modified>2023-05-26T13:49:41.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.126</Modified>
+      <Modified>2023-05-26T13:49:41.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.130</Modified>
+      <Modified>2023-05-26T13:49:41.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.133</Modified>
+      <Modified>2023-05-26T13:49:41.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.150</Modified>
+      <Modified>2023-05-26T13:49:41.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.137</Modified>
+      <Modified>2023-05-26T13:49:41.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.141</Modified>
+      <Modified>2023-05-26T13:49:41.757</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.254</Modified>
+      <Modified>2023-05-26T13:49:41.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.260</Modified>
+      <Modified>2023-05-26T13:49:41.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.267</Modified>
+      <Modified>2023-05-26T13:49:41.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.278</Modified>
+      <Modified>2023-05-26T13:49:41.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.301</Modified>
+      <Modified>2023-05-26T13:49:41.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.225</Modified>
+      <Modified>2023-05-26T13:49:41.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.229</Modified>
+      <Modified>2023-05-26T13:49:41.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.233</Modified>
+      <Modified>2023-05-26T13:49:41.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.238</Modified>
+      <Modified>2023-05-26T13:49:41.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.248</Modified>
+      <Modified>2023-05-26T13:49:41.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.200</Modified>
+      <Modified>2023-05-26T13:49:41.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.205</Modified>
+      <Modified>2023-05-26T13:49:41.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.209</Modified>
+      <Modified>2023-05-26T13:49:41.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.214</Modified>
+      <Modified>2023-05-26T13:49:41.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.220</Modified>
+      <Modified>2023-05-26T13:49:41.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.308</Modified>
+      <Modified>2023-05-26T13:49:41.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.316</Modified>
+      <Modified>2023-05-26T13:49:41.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.327</Modified>
+      <Modified>2023-05-26T13:49:41.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.343</Modified>
+      <Modified>2023-05-26T13:49:41.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.389</Modified>
+      <Modified>2023-05-26T13:49:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dayz_logo.scale-100.png">
+      <PackagePath>dayz_logo.scale-100.png</PackagePath>
+      <Modified>2023-05-26T13:44:14.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.150</Modified>
+      <Modified>2023-05-26T13:49:41.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.162</Modified>
+      <Modified>2023-05-26T13:49:41.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.178</Modified>
+      <Modified>2023-05-26T13:49:41.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.201</Modified>
+      <Modified>2023-05-26T13:49:41.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\repos\zvarg\dayz-connection\DayzConnection\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:55:08.260</Modified>
+      <Modified>2023-05-26T13:49:41.789</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

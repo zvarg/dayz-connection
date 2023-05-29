@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="d2bd4439-d7a3-4a5f-953e-85f04f4a92be" Publisher="CN=User Name" Version="1.0.0.1" />
+  <Identity Name="d2bd4439-d7a3-4a5f-953e-85f04f4a92be" Publisher="CN=Tino Products" Version="0.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="74933834-5625-416D-94DF-58A35D34A395" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>DayzConnection</DisplayName>

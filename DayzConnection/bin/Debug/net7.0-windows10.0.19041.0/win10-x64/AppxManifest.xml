@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="d2bd4439-d7a3-4a5f-953e-85f04f4a92be" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x64" />
+  <Identity Name="d2bd4439-d7a3-4a5f-953e-85f04f4a92be" Publisher="CN=Tino Products" Version="0.0.1.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="74933834-5625-416D-94DF-58A35D34A395" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>DayzConnection</DisplayName>
